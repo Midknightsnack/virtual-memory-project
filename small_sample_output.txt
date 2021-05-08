@@ -1,0 +1,137 @@
+========================================================================================================== 900
+
+logical: 47758 (page: 186, offset: 142) ---> physical: 56462 -> value:   46 ok #hits: 243 51  
+logical: 22136 (page:  86, offset: 120) ---> physical: 56696 -> value:    0 ok #hits: 243 51  
+logical: 22427 (page:  87, offset: 155) ---> physical: 11419 -> value:  -26 ok #hits: 243 51  
+logical: 23867 (page:  93, offset:  59) ---> physical: 39483 -> value:   78 ok #hits: 243 51  
+logical: 59968 (page: 234, offset:  64) ---> physical: 10560 -> value:    0 ok #hits: 243 51  
+
+logical: 62166 (page: 242, offset: 214) ---> physical: 62422 -> value:   60 ok #hits: 244 51 PgFAULT 
+logical:  6972 (page:  27, offset:  60) ---> physical: 26428 -> value:    0 ok #hits: 244 51  
+logical: 63684 (page: 248, offset: 196) ---> physical: 28356 -> value:    0 ok #hits: 244 51  
+logical: 46388 (page: 181, offset:  52) ---> physical: 50228 -> value:    0 ok #hits: 244 51  
+logical: 41942 (page: 163, offset: 214) ---> physical: 38870 -> value:   40 ok #hits: 244 51  
+
+logical: 36524 (page: 142, offset: 172) ---> physical: 14508 -> value:    0 ok #hits: 244 51  
+logical:  9323 (page:  36, offset: 107) ---> physical: 22891 -> value:   26 ok #hits: 244 51  
+logical: 31114 (page: 121, offset: 138) ---> physical: 62090 -> value:   30 ok #hits: 244 51  
+logical: 22345 (page:  87, offset:  73) ---> physical: 11337 -> value:    0 ok #hits: 244 52  TLB HIT
+logical: 46463 (page: 181, offset: 127) ---> physical: 50303 -> value:   95 ok #hits: 244 53  TLB HIT
+
+logical: 54671 (page: 213, offset: 143) ---> physical: 48783 -> value:   99 ok #hits: 244 53  
+logical:  9214 (page:  35, offset: 254) ---> physical: 48382 -> value:    8 ok #hits: 244 53  
+logical:  7257 (page:  28, offset:  89) ---> physical: 43097 -> value:    0 ok #hits: 244 53  
+logical: 33150 (page: 129, offset: 126) ---> physical: 53630 -> value:   32 ok #hits: 244 53  
+logical: 41565 (page: 162, offset:  93) ---> physical: 41821 -> value:    0 ok #hits: 244 53  
+
+logical: 26214 (page: 102, offset: 102) ---> physical: 49254 -> value:   25 ok #hits: 244 53  
+logical:  3595 (page:  14, offset:  11) ---> physical:  9995 -> value: -126 ok #hits: 244 53  
+logical: 17932 (page:  70, offset:  12) ---> physical: 18700 -> value:    0 ok #hits: 244 53  
+logical: 34660 (page: 135, offset: 100) ---> physical: 18020 -> value:    0 ok #hits: 244 53  
+logical: 51961 (page: 202, offset: 249) ---> physical: 27385 -> value:    0 ok #hits: 244 53  
+
+logical: 58634 (page: 229, offset:  10) ---> physical: 55050 -> value:   57 ok #hits: 244 53  
+logical: 57990 (page: 226, offset: 134) ---> physical:  3206 -> value:   56 ok #hits: 244 53  
+logical: 28848 (page: 112, offset: 176) ---> physical:  1456 -> value:    0 ok #hits: 244 53  
+logical: 49920 (page: 195, offset:   0) ---> physical: 59136 -> value:    0 ok #hits: 244 53  
+logical: 18351 (page:  71, offset: 175) ---> physical:  2479 -> value:  -21 ok #hits: 244 53  
+
+logical: 53669 (page: 209, offset: 165) ---> physical:   933 -> value:    0 ok #hits: 244 53  
+logical: 33996 (page: 132, offset: 204) ---> physical: 42188 -> value:    0 ok #hits: 244 53  
+logical:  6741 (page:  26, offset:  85) ---> physical:  6741 -> value:    0 ok #hits: 244 53  
+logical: 64098 (page: 250, offset:  98) ---> physical:  4450 -> value:   62 ok #hits: 244 53  
+logical:   606 (page:   2, offset:  94) ---> physical: 17246 -> value:    0 ok #hits: 244 53  
+
+logical: 27383 (page: 106, offset: 247) ---> physical: 28919 -> value:  -67 ok #hits: 244 53  
+logical: 63140 (page: 246, offset: 164) ---> physical: 22180 -> value:    0 ok #hits: 244 53  
+logical: 32228 (page: 125, offset: 228) ---> physical: 49892 -> value:    0 ok #hits: 244 53  
+logical: 63437 (page: 247, offset: 205) ---> physical: 17101 -> value:    0 ok #hits: 244 53  
+logical: 29085 (page: 113, offset: 157) ---> physical: 16541 -> value:    0 ok #hits: 244 53  
+
+logical: 65080 (page: 254, offset:  56) ---> physical: 48440 -> value:    0 ok #hits: 244 53  
+logical: 38753 (page: 151, offset:  97) ---> physical: 46945 -> value:    0 ok #hits: 244 53  
+logical: 16041 (page:  62, offset: 169) ---> physical: 21161 -> value:    0 ok #hits: 244 53  
+logical:  9041 (page:  35, offset:  81) ---> physical: 48209 -> value:    0 ok #hits: 244 53  
+logical: 42090 (page: 164, offset: 106) ---> physical: 46186 -> value:   41 ok #hits: 244 53  
+
+logical: 46388 (page: 181, offset:  52) ---> physical: 50228 -> value:    0 ok #hits: 244 53  
+logical: 63650 (page: 248, offset: 162) ---> physical: 28322 -> value:   62 ok #hits: 244 53  
+logical: 36636 (page: 143, offset:  28) ---> physical: 35612 -> value:    0 ok #hits: 244 53  
+logical: 21947 (page:  85, offset: 187) ---> physical: 24251 -> value:  110 ok #hits: 244 53  
+logical: 19833 (page:  77, offset: 121) ---> physical: 36473 -> value:    0 ok #hits: 244 53  
+
+========================================================================================================== 950
+
+logical: 36464 (page: 142, offset: 112) ---> physical: 14448 -> value:    0 ok #hits: 244 53  
+logical:  8541 (page:  33, offset:  93) ---> physical: 20061 -> value:    0 ok #hits: 244 53  
+logical: 12712 (page:  49, offset: 168) ---> physical: 31144 -> value:    0 ok #hits: 244 53  
+logical: 48955 (page: 191, offset:  59) ---> physical: 50491 -> value:  -50 ok #hits: 244 53  
+logical: 39206 (page: 153, offset:  38) ---> physical: 55590 -> value:   38 ok #hits: 244 53  
+
+logical: 15578 (page:  60, offset: 218) ---> physical: 31962 -> value:   15 ok #hits: 244 53  
+logical: 49205 (page: 192, offset:  53) ---> physical:  8501 -> value:    0 ok #hits: 244 53  
+logical:  7731 (page:  30, offset:  51) ---> physical: 57907 -> value: -116 ok #hits: 244 53  
+logical: 43046 (page: 168, offset:  38) ---> physical: 17446 -> value:   42 ok #hits: 244 53  
+logical: 60498 (page: 236, offset:  82) ---> physical:  7250 -> value:   59 ok #hits: 244 53  
+
+logical:  9237 (page:  36, offset:  21) ---> physical: 22805 -> value:    0 ok #hits: 244 53  
+logical: 47706 (page: 186, offset:  90) ---> physical: 56410 -> value:   46 ok #hits: 244 53  
+logical: 43973 (page: 171, offset: 197) ---> physical: 57541 -> value:    0 ok #hits: 244 53  
+logical: 42008 (page: 164, offset:  24) ---> physical: 46104 -> value:    0 ok #hits: 244 53  
+logical: 27460 (page: 107, offset:  68) ---> physical: 15684 -> value:    0 ok #hits: 244 53  
+
+logical: 24999 (page:  97, offset: 167) ---> physical: 52647 -> value:  105 ok #hits: 244 53  
+logical: 51933 (page: 202, offset: 221) ---> physical: 27357 -> value:    0 ok #hits: 244 53  
+logical: 34070 (page: 133, offset:  22) ---> physical: 60950 -> value:   33 ok #hits: 244 53  
+logical: 65155 (page: 254, offset: 131) ---> physical: 48515 -> value:  -96 ok #hits: 244 53  
+logical: 59955 (page: 234, offset:  51) ---> physical: 10547 -> value: -116 ok #hits: 244 53  
+
+logical:  9277 (page:  36, offset:  61) ---> physical: 22845 -> value:    0 ok #hits: 244 54  TLB HIT
+logical: 20420 (page:  79, offset: 196) ---> physical: 16836 -> value:    0 ok #hits: 244 54  
+logical: 44860 (page: 175, offset:  60) ---> physical: 13116 -> value:    0 ok #hits: 244 54  
+logical: 50992 (page: 199, offset:  48) ---> physical: 42800 -> value:    0 ok #hits: 244 54  
+logical: 10583 (page:  41, offset:  87) ---> physical: 27479 -> value:   85 ok #hits: 244 54  
+
+logical: 57751 (page: 225, offset: 151) ---> physical: 61335 -> value:  101 ok #hits: 244 54  
+logical: 23195 (page:  90, offset: 155) ---> physical: 35995 -> value:  -90 ok #hits: 244 54  
+logical: 27227 (page: 106, offset:  91) ---> physical: 28763 -> value: -106 ok #hits: 244 54  
+logical: 42816 (page: 167, offset:  64) ---> physical: 19520 -> value:    0 ok #hits: 244 54  
+logical: 58219 (page: 227, offset: 107) ---> physical: 34155 -> value:  -38 ok #hits: 244 54  
+
+logical: 37606 (page: 146, offset: 230) ---> physical: 21478 -> value:   36 ok #hits: 244 54  
+logical: 18426 (page:  71, offset: 250) ---> physical:  2554 -> value:   17 ok #hits: 244 54  
+logical: 21238 (page:  82, offset: 246) ---> physical: 37878 -> value:   20 ok #hits: 244 54  
+logical: 11983 (page:  46, offset: 207) ---> physical: 59855 -> value:  -77 ok #hits: 244 54  
+logical: 48394 (page: 189, offset:  10) ---> physical:  1802 -> value:   47 ok #hits: 244 54  
+
+logical: 11036 (page:  43, offset:  28) ---> physical: 39964 -> value:    0 ok #hits: 244 54  
+logical: 30557 (page: 119, offset:  93) ---> physical: 16221 -> value:    0 ok #hits: 244 54  
+logical: 23453 (page:  91, offset: 157) ---> physical: 20637 -> value:    0 ok #hits: 244 54  
+logical: 49847 (page: 194, offset: 183) ---> physical: 31671 -> value:  -83 ok #hits: 244 54  
+logical: 30032 (page: 117, offset:  80) ---> physical:   592 -> value:    0 ok #hits: 244 54  
+
+logical: 48065 (page: 187, offset: 193) ---> physical: 25793 -> value:    0 ok #hits: 244 54  
+logical:  6957 (page:  27, offset:  45) ---> physical: 26413 -> value:    0 ok #hits: 244 54  
+logical:  2301 (page:   8, offset: 253) ---> physical: 35325 -> value:    0 ok #hits: 244 54  
+logical:  7736 (page:  30, offset:  56) ---> physical: 57912 -> value:    0 ok #hits: 244 54  
+logical: 31260 (page: 122, offset:  28) ---> physical: 23324 -> value:    0 ok #hits: 244 54  
+
+logical: 17071 (page:  66, offset: 175) ---> physical:   175 -> value:  -85 ok #hits: 244 54  
+logical:  8940 (page:  34, offset: 236) ---> physical: 46572 -> value:    0 ok #hits: 244 54  
+logical:  9929 (page:  38, offset: 201) ---> physical: 44745 -> value:    0 ok #hits: 244 54  
+logical: 45563 (page: 177, offset: 251) ---> physical: 46075 -> value:  126 ok #hits: 244 54  
+logical: 12107 (page:  47, offset:  75) ---> physical:  2635 -> value:  -46 ok #hits: 244 54  
+
+========================================================================================================== 1000
+
+ALL logical ---> physical assertions PASSED!
+ALL read memory value assertions PASSED!
+
+                ... nPages == nFrames memory simulation done.
+
+ Starting nPages != nFrames memory simulation...
+logical: 16916 (page:  66, offset:  20) ---> physical:    20 -> value:    0 ok #hits: 1 0  
+logical: 62493 (page: 244, offset:  29) ---> physical:   285 -> value:    0 ok #hits: 2 0 PgFAULT 
+logical: 30198 (page: 117, offset: 246) ---> physical:   758 -> value:    0 ok #hits: 3 0 PgFAULT 
+mem_mgr: /home/osc/final-src-osc10e/assign4/mem_mgr.c:293: simulate_pages_frames_not_equal: Assertion `value == val' failed.
+Aborted (core dumped)
